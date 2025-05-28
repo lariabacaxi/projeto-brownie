@@ -5,23 +5,33 @@ background-color: #febab9;
 font-family:'lari';
 src: url(content/better_together_script/Better\ Together\ Script.ttf);
 }
-h1 {
+header {
 font-family: 'lari';
-font-size: 60px;
+font-size: 100px;
 text-align: center;
+
 color: #ffe4e4;
   text-shadow: 2px 2px 4px black;                                                                                                                                   ''
 }
-.content {
-position: absolute;
-top: -60px;
-}
+
 
 .Brownie1{
-  font-family: lari;
-  font-size:26px;
+  font-family:lari;
+  font-size:50px;
   text-align: right;
+  position: relative;
+  bottom:600px;
   color: #653318;
-  text-shadow: 2px 2px 4px black; 
+}
+
+.preço1{
+text-align: right;
+position: relative;
+bottom:590px ;
+font-size:70px;
+color: #ffe4e4;
+font-family: lari;
+text-shadow: 2px 2px 4px black;
+
 }
 
