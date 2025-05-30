@@ -3,7 +3,7 @@ background-color: #febab9;
 }
 @font-face {
 font-family:'lari';
-src: url(content/better_together_script/Better\ Together\ Script.ttf);
+src: url(content/Better\ Together\ Script.ttf)
 }
 header {
 font-family: 'lari';
@@ -35,3 +35,11 @@ text-shadow: 2px 2px 4px black;
 
 }
 
+.brownie2{
+text-align: left;
+font-size: 60px;
+font-family: lari;
+color: #653318;
+position: relative;
+bottom: 180px;
+}
